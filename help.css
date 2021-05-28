@@ -1,0 +1,41 @@
+html{
+  width: 100%;
+
+}
+
+body {
+    
+background-image: url(https://cdn.pixabay.com/photo/2014/04/08/19/38/sky-319546__340.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+img {
+    -webkit-box-shadow: 9px 9px 15px 3px rgba(0, 0, 0, 0.73);
+    box-shadow: 9px 9px 15px 3px rgba(0, 0, 0, 0.73);
+}
+
+img.rounded-borders {
+    border-radius: 50px 20px 50px 20px;
+    border: 5px solid black;
+    ;
+}
+
+
+  .f{   position: sticky;
+   align-content: center;
+  border: 10px solid black;
+  background-color: aquamarine;
+   margin: 50px;
+  padding: 50px;
+  }
+.p1{
+ font-size: 50px;
+    
+    
+}
+           
+
+
+
